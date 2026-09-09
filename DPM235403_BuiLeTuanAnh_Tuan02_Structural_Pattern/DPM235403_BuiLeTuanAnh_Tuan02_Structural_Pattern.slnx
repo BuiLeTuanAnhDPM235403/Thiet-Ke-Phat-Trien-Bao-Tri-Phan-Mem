@@ -1,0 +1,16 @@
+<Solution>
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Adapter_DP/DPM235403_BuiLeTuanAnh_Tuan02_Adapter_DP.csproj" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Adapter_Real_VanChuyen_DP/DPM235403_BuiLeTuanAnh_Tuan02_Adapter_Real_VanChuyen_DP.csproj" Id="238f725c-7d88-4ea3-a0b6-fea4d1397188" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Bridge_DP/DPM235403_BuiLeTuanAnh_Tuan02_Bridge_DP.csproj" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Bridge_Real_BaoCao_DP/DPM235403_BuiLeTuanAnh_Tuan02_Bridge_Real_BaoCao_DP.csproj" Id="97595076-aed4-4c50-a4aa-2f49bfc0a2f4" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Composite_DP/DPM235403_BuiLeTuanAnh_Tuan02_Composite_DP.csproj" Id="df7a4080-71e0-487e-8fea-e945b8c4651d" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Composite_Real_KhoHang_DP/DPM235403_BuiLeTuanAnh_Tuan02_Composite_Real_KhoHang_DP.csproj" Id="a5273f9a-d587-4a63-a925-65e67572f1ff" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Decorator_DP/DPM235403_BuiLeTuanAnh_Tuan02_Decorator_DP.csproj" Id="24a5693d-b526-406f-bdab-1d7372d60ef2" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Decorator_Real_HoaDon_DP/DPM235403_BuiLeTuanAnh_Tuan02_Decorator_Real_HoaDon_DP.csproj" Id="a2b3fab8-d7a0-454b-80a1-6e55765d94ec" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Facade_DP/DPM235403_BuiLeTuanAnh_Tuan02_Facade_DP.csproj" Id="7801abb9-ff21-4105-bd9a-284e11e49443" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Facade_Real_BanHang_DP/DPM235403_BuiLeTuanAnh_Tuan02_Facade_Real_BanHang_DP.csproj" Id="c2b7568e-1b98-4d40-8fc1-ca63a4035569" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Flyweight_DP/DPM235403_BuiLeTuanAnh_Tuan02_Flyweight_DP.csproj" Id="38dde05c-b7d6-48c0-a87a-1e56508315f3" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Flyweight_Real_LoHang_DP/DPM235403_BuiLeTuanAnh_Tuan02_Flyweight_Real_LoHang_DP.csproj" Id="03c8d7b3-2c6a-4197-9fee-b3f576f0a774" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Proxy_DP/DPM235403_BuiLeTuanAnh_Tuan02_Proxy_DP.csproj" Id="0445e4b2-063e-4cec-9d48-e5ef31af38bd" />
+  <Project Path="DPM235403_BuiLeTuanAnh_Tuan02_Proxy_Real_DangNhap_DP/DPM235403_BuiLeTuanAnh_Tuan02_Proxy_Real_DangNhap_DP.csproj" Id="26691752-0f94-41e9-98b5-bc8ace8e470d" />
+</Solution>

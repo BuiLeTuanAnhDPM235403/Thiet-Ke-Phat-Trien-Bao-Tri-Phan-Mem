@@ -1,0 +1,26 @@
+﻿using System;
+
+namespace DPM235403_BuiLeTuanAnh_Tuan02_Composite_DP
+{
+    abstract class Component
+    {
+        public Component() { }
+
+        public abstract string Operation();
+
+        public virtual void Add(Component component)
+        {
+            throw new NotImplementedException();
+        }
+
+        public virtual void Remove(Component component)
+        {
+            throw new NotImplementedException();
+        }
+
+        public virtual bool IsComposite()
+        {
+            return true;
+        }
+    }
+}
