@@ -10,7 +10,7 @@ Dự án ứng dụng **22 Mẫu Thiết Kế (Design Patterns)** theo chuẩn G
 
 | Họ và Tên | Mã Số Sinh Viên | Chuyên Ngành |
 | :--- | :---: | :--- |
-| **Bùi Lê Tuấn Anh** | `DPM235403` | Phát Triển Phần Mềm |
+| **Bùi Lê Tuấn Anh** | `DPM235403` | Kĩ Thuật Phần Mềm |
 
 ---
 
