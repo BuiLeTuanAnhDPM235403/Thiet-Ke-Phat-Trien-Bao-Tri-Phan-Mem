@@ -21,9 +21,7 @@ Dự án ứng dụng **22 Mẫu Thiết Kế (Design Patterns)** theo chuẩn G
 
 ---
 
-## 📂 Cấu Trúc Thư Mục Dự Án
-
-Dự án được phân chia rõ ràng theo từng tuần học, bao gồm phần Code mẫu lý thuyết (Guru) và Code ứng dụng thực tế vào phần mềm Nông dược:
+## 📂 Cấu trúc Repository Dự Án
 
 ```text
 📦 Thiet-Ke-Phat-Trien-Bao-Tri-Phan-Mem
